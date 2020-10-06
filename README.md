@@ -20,6 +20,7 @@ $ pkg install python<br>
 $ pkg install python2<br>
 $ pip2 install requests<br>
 $ pip2 install mechanize<br>
+$ pip2 install bs4<br>
 $ pkg install git<br>
 $ git clone https://github.com/Azim-vau/Azim0.5.git <br>
 $ cd Azim0.5<br>
