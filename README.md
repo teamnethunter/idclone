@@ -1,4 +1,4 @@
-<b>installation<b/>
+<b>installation</b>
 
 $ pkg update<br>
 $ pkg upgrade<br>
