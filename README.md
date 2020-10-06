@@ -27,6 +27,6 @@ $ python2 crack.py <br>
 </div>
 </p>
 
-<b>Access Token Generator Apk>
+<b>Access Token Generator Apk</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">Download</a>
 
