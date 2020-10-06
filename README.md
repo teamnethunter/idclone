@@ -11,7 +11,7 @@
 
 
 
-<div>
+<p>
 <b>#installation#</b>
 
 $ pkg update<br>
@@ -25,4 +25,8 @@ $ git clone https://github.com/Azim-vau/Azim0.5.git <br>
 $ cd Azim0.5<br>
 $ python2 crack.py <br>
 </div>
+</p>
+
+<b>Access Token Generator Apk>
+ <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">Download</a>
 
