@@ -1,4 +1,5 @@
-# Me<br>[![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-green?style=flat-square&logo=github)](https://github.com/Azim-vau)<br> [![Facebook](https://img.shields.io/badge/Facebook-AZim-red?style=flat-square&logo=facebook)](https://www.facebook.com/123548648342413)<br> [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-green?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-INNOCENT--SPAMMER-green?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/DA8asUGMmRG42yKXrCsVb7)
+<i># Follow Me</i> <br>[![Github](https://img.shields.io/badge/Github-AZIM--MAHMUD-dimgray?style=flat-square&logo=github)](https://github.com/Azim-vau)<br> [![Facebook](https://img.shields.io/badge/Facebook-AZIM-blue?style=flat-square&logo=facebook)](https://www.facebook.com/123548648342413)<br> [![Instagram](https://img.shields.io/badge/Instagram-AZIM--MAHMUD-hotpink?style=flat-square&logo=instagram)](https://Instagram.com/azimmahmud143)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AZIM--MAHMUD-deepgreen?style=flat-square&logo=whatsapp)](https://google.com/Azim-vau)
+
 
 
 <h1 align="center">AZIM0.5</h1>
@@ -8,6 +9,9 @@
 
 
 
+
+
+<div>
 <b>#installation#</b>
 
 $ pkg update<br>
@@ -20,4 +24,5 @@ $ pkg install git<br>
 $ git clone https://github.com/Azim-vau/Azim0.5.git <br>
 $ cd Azim0.5<br>
 $ python2 crack.py <br>
+</div>
 
