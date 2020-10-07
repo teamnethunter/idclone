@@ -14,17 +14,17 @@
 
 <b>#installation#</b>
 ```
-$ pkg update<br>
-$ pkg upgrade<br>
-$ pkg install python<br>
-$ pkg install python2<br>
-$ pip2 install requests<br>
-$ pip2 install mechanize<br>
-$ pip2 install bs4<br>
-$ pkg install git<br>
-$ git clone https://github.com/Azim-vau/Azim0.5.git <br>
-$ cd Azim0.5<br>
-$ python2 crack.py <br>
+$ pkg update
+$ pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pip2 install requests
+$ pip2 install mechanize
+$ pip2 install bs4
+$ pkg install git
+$ git clone https://github.com/Azim-vau/Azim0.5.git
+$ cd Azim0.5
+$ python2 crack.py
 ```
 
 
