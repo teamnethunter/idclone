@@ -10,10 +10,10 @@
 
 
 
-```
-<p>
-<b>#installation#</b>
 
+
+<b>#installation#</b>
+```
 $ pkg update<br>
 $ pkg upgrade<br>
 $ pkg install python<br>
@@ -25,9 +25,9 @@ $ pkg install git<br>
 $ git clone https://github.com/Azim-vau/Azim0.5.git <br>
 $ cd Azim0.5<br>
 $ python2 crack.py <br>
-
-</p>
 ```
+
+
 <b>Access Token Generator Apk</b><br>
  <a href="https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook">DOWNLOD</a>
 
